@@ -1,11 +1,10 @@
-Assignment-8
-============
+Assignment-8 General Information
+================================
+Licence information can be found in the Licence.md file located within this repo.
 
-Assignment-8 Repo
-
-Adding information for Push Purposes
-====================================
-
+These files have been created by:
 Chris Tully
-Tom Eastwood
 Nick Hiebert
+Thomas Eastwood.
+
+The idea of this software is to allow for the storage of classes and variables with out using arrays. The storage of said data is processed via a linkedList and LinkedNode, while implementing a Node type interface. 

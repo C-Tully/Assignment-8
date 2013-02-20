@@ -1,0 +1,6 @@
+The following code is to be consindered a open source code base under the 
+restrictions of the GPL -3.0 Licence.
+
+http://opensource.org/licenses/GPL-3.0
+
+
